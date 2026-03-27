@@ -123,25 +123,25 @@ class Score {
 		return tot;
 	}
 
-	public void setTot(int tot) {
-		this.tot = tot;
-	}
+//	public void setTot(int tot) {
+//		this.tot = tot;
+//	}
 
 	public double getAvg() {
 		return avg;
 	}
 
-	public void setAvg(double avg) {
-		this.avg = avg;
-	}
+//	public void setAvg(double avg) {
+//		this.avg = avg;
+//	}
 
 	public String getGrade() {
 		return grade;
 	}
 
-	public void setGrade(String grade) {
-		this.grade = grade;
-	}
+//	public void setGrade(String grade) {
+//		this.grade = grade;
+//	}
 
 	public void calc() {            //
 		this.tot = getTot();
